@@ -20,7 +20,7 @@ Accepted in ACM SIGKDD 2022 (https://kdd.org/kdd2022/)
 - ModelNet40 (https://modelnet.cs.princeton.edu/)
 
 - Download: https://drive.google.com/file/d/19Typ-Yt1oBDwr9q5uCawa6EHqsJMH-Vn/view?usp=sharing
-  - These datasets were created to match the number of faces and follow the manifold format.
+  - These datasets were created to have an equal number of faces and follow a manifold format.
 
 # Usage
 - Preprocessing: python resize_manifold.py && python make_dataset.py
