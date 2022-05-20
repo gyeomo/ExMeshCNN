@@ -1,5 +1,5 @@
 # ExMeshCNN
-ExMeshCNN: A Novel CNN Architecture for 3D Mesh Endowing Explainability and Scalability
+ExMeshCNN: An Explainable Convolutional Neural Network Architecture for 3D Shape Analysis
 
 Accepted in KDD 2022
 # Requirements
