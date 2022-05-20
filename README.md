@@ -1,6 +1,7 @@
 # ExMeshCNN
 ExMeshCNN: A Novel CNN Architecture for 3D Mesh Endowing Explainability and Scalability
 
+Accepted in KDD 2022
 # Requirements
 - ubuntu 20.04.3 LTS
 
