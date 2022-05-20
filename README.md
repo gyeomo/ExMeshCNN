@@ -1,7 +1,7 @@
 # ExMeshCNN
 ExMeshCNN: An Explainable Convolutional Neural Network Architecture for 3D Shape Analysis
 
-Accepted in KDD 2022
+Accepted in ACM SIGKDD 2022 (https://kdd.org/kdd2022/)
 # Requirements
 - ubuntu 20.04.3 LTS
 
