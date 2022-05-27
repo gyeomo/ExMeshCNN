@@ -8,6 +8,7 @@ Accepted in ACM SIGKDD 2022 (https://kdd.org/kdd2022/)
 - CUDA == 11.1
 - cudnn == 8.1.0
 - numpy == 1.19.5
+- matplotlib == 3.4.3 
 - openmesh == 1.1.3
 - pymeshlab == 2021.7
 - torch == 1.7.1+cu110
