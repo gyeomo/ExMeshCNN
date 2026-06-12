@@ -1,6 +1,10 @@
 # ExMeshCNN
 **ExMeshCNN: An Explainable Convolutional Neural Network Architecture for 3D Shape Analysis ([KDD 2022](https://dl.acm.org/doi/abs/10.1145/3534678.3539463))**
 
+<p align="center">
+  <img src="image.png" width="900">
+</p>
+
 
 
 # Requirements
